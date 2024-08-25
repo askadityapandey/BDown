@@ -1,5 +1,7 @@
-                                 ![Group 1 (1)](https://github.com/user-attachments/assets/f80efadd-c00b-4573-ac68-4254268b816a)
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f80efadd-c00b-4573-ac68-4254268b816a" alt="BDown" />
+</div>
 
 A simple Flask application that removes the background from images using the `rembg` library. This tool allows users to upload an image and download the processed image with the background removed.
 
