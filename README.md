@@ -20,8 +20,10 @@ A simple Flask application that removes the background from images using the `re
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository**:
-
    ```bash
    git clone https://github.com/yourusername/image-background-remover.git
    cd image-background-remover
+   pip install -r requirements.txt
+   python app.py```
+
+
